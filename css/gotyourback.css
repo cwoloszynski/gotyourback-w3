@@ -21,3 +21,6 @@
 .tinted {
     color: #f4ab1b;
 }
+
+ul.bullet {list-style-position:outside;}
+
